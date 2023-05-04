@@ -1,0 +1,15 @@
+# Basics
+pandas
+numpy
+plotly
+tqdm
+alive_progress
+termcolor
+
+# Embedding Magic
+flair
+
+# Advanced Clustering
+hdbscan
+
+scikit-learn

@@ -8,8 +8,6 @@ from sklearn.manifold import TSNE
 import hdbscan
 
 import plotly.express as px
-import plotly.graph_objects as go
-import matplotlib as plt
 
 from alive_progress import alive_bar
 
